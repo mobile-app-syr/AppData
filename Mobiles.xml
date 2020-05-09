@@ -34,5 +34,12 @@
 <finish> endd </finish>
 </Mobile>
   
+  <Mobile>
+<Name>I Phone 10</Name>
+<Price>1.000.000 SYP</Price>
+<details>This Mobile Have also Nothing</details>
+<finish> endd </finish>
+</Mobile>
+  
   
 </MobApp>
